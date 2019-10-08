@@ -6,6 +6,3 @@ Currently we are working on the basics of the mod, such as countries and nationa
 
 ## The Goal
 The goal of the mod is to transform EU4 to a game in which you can take control of a denizen/member nation (such as Sci's *Empire of Hugs*, Pebbles' *Gran Pebbellia*, or Arche's *Archeland*) and play as their nations, while also befriending or fighting other user nations. I wanna add achievements too.
-
-## "Key Points"
-The oldest bookmark will be, at the earliest, sometime in 2011 or early 2012. As EU4 only goes from 1444 to 1821, this will serve as the 1444 bookmark.
