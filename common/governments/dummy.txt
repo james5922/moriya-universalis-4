@@ -1,2 +1,0 @@
-This is a dummy file.
-This folder is for different government types. Custom names for different governments should go in the /common/government_names/ folder.
