@@ -7,8 +7,22 @@ NAT = "countries/Natives.txt"
 # TAG = "countries/CountryName.txt"
 # If you don't, the game might crash!!
 
+
 # MU4 Modded Nations
+
+# Formables
+MOR = "countries/MoriyaShrine.txt"
+SNC = "countries/ShiningNeedleCastle.txt"
+TOS = "countries/OrreriesSun.txt"
 MOT = "countries/Motivation.txt"
+GLO = "countries/GloriousRevolution.txt"
+
+# Revolters
+CHI = "countries/ChinatsuState.txt"
+SEF = "countries/SefeianState.txt"
+
+# Starting Bookmark
+SCI = "countries/Sciland.txt"
 CMR = "countries/CirnoMoriya.txt"
 CRF = "countries/CraftyState.txt"
 ARC = "countries/Archeland.txt"
@@ -37,3 +51,5 @@ PEB = "countries/GranPebbellia.txt"
 FLR = "countries/FlandreRemilia.txt"
 SPA = "countries/Spagalie.txt"
 CAR = "countries/CarlEmpire.txt"
+MOS = "countries/MoshennikHorde.txt"
+DOT = "countries/DootDomain.txt"
