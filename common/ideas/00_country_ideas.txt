@@ -1,0 +1,41 @@
+# Do not change tags in here without changing every other reference to them.
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or ideas, make sure they are unique.
+
+### Nation specific idea groups
+
+
+## TEMPLATE_ideas = [
+## 	start = { 
+##		national_tradition_bonus_1
+##		national_tradition_bonus_2
+##	}
+##	bonus = [
+##		national_ambition_bonus
+##	]
+##	trigger = [
+##		tag = TAG
+##	]
+##	free = yes
+##	idea_name_1 = [
+##
+##	]
+##	idea_name_2 = [
+##	
+##	]
+##	idea_name_3 = [
+##
+##	]
+##	idea_name_4 = [
+##	
+##	]
+##	idea_name_5 = [
+##
+##	]
+##	idea_name_6 = [
+##	
+##	]
+##	idea_name_7 = [
+##
+##	]
+## ]
