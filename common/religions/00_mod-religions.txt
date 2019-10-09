@@ -1,0 +1,43 @@
+ms_religions = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	#center_of_religion = Whereever genchat is I guess
+
+	the_memes = {
+		color = { 0 131 4 }
+		icon = 1
+		country = {
+			tolerance_own = 1
+			local_tax_modifier = 0.1
+		}
+
+		country_as_secondary = {
+
+		}
+
+		#heretic = { PLACEHOLDER }
+		hre_religion = yes
+
+	}
+	
+	hug_cult = {
+		color = { 133 0 142 }
+		icon = 2
+		country = {
+			tolerance_heretic = 1
+			manpower_recovery_speed = 0.10
+		}
+		
+		province = {
+			local_missionary_strength = -0.01
+		}
+		
+		country_as_secondary = {
+			
+		}
+		
+		#heretic = { PLACEHOLDER }
+		hre_heretic_religion = yes
+		date = {1500.01.01}
+	}
+}
