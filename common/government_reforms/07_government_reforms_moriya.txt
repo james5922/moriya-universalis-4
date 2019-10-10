@@ -1,0 +1,11 @@
+# I hope this works!
+
+flower_horde_reform = {
+	potential = {
+		tag = MOS
+	}
+	basic_reform = yes
+	nomad = yes
+}
+
+	
