@@ -19,8 +19,8 @@ l_english:
  
  
  DOT_ideas:0 "Skeltal Ideas"
- TAG_ideas_start:0 "Skeltal Traditions"
- TAG_ideas_bonus:0 "Skeltal Ambition"
+ DOT_ideas_start:0 "Skeltal Traditions"
+ DOT_ideas_bonus:0 "Skeltal Ambition"
  haven_of_shitposting:0 "Haven of Shitposting"
  haven_of_shitposting_desc:0 "By inviting the greatest shitposters of our time, we will ensure stability in our realm. If only because people will be angrier at them than us."
  necropolis:0 "Necropolis"
