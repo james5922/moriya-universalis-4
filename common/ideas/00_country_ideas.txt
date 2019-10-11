@@ -5,37 +5,37 @@
 ### Nation specific idea groups
 
 
-## TEMPLATE_ideas = [
+## TEMPLATE_ideas = {
 ## 	start = { 
 ##		national_tradition_bonus_1
 ##		national_tradition_bonus_2
 ##	}
-##	bonus = [
+##	bonus = {
 ##		national_ambition_bonus
-##	]
-##	trigger = [
+##	}
+##	trigger = {
 ##		tag = TAG
-##	]
+##	}
 ##	free = yes
-##	idea_name_1 = [
+##	idea_name_1 = {
 ##
-##	]
-##	idea_name_2 = [
+##	}
+##	idea_name_2 = {
 ##	
-##	]
-##	idea_name_3 = [
+##	}
+##	idea_name_3 = {
 ##
-##	]
-##	idea_name_4 = [
+##	}
+##	idea_name_4 = {
 ##	
-##	]
-##	idea_name_5 = [
+##	}
+##	idea_name_5 = {
 ##
-##	]
-##	idea_name_6 = [
+##	}
+##	idea_name_6 = {
 ##	
-##	]
-##	idea_name_7 = [
+##	}
+##	idea_name_7 = {
 ##
-##	]
-## ]
+##	}
+## }
