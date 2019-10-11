@@ -212,3 +212,42 @@ MOS_ideas = {
 		infantry_power = 0.33
 	}
 }
+
+SCP_ideas = {
+	start = {
+	
+	}
+
+	bonus = {
+	
+	}
+
+	trigger = {
+		tag = SCP
+	}
+
+	free = yes
+
+	the_king_of_bots = {
+		production_efficiency = 0.05
+	}
+	scapertown_shipyards = {
+		naval_forcelimit_modifier = 0.2
+	}
+	hellbird_alliance = {
+		diplomats = 1
+		diplomatic_upkeep = 1
+	}
+	scp_idea_4 = {
+		# needs name
+	}
+	scp_idea_5 = {
+		# needs name
+	}
+	scp_idea_6 = {
+		# needs name
+	}
+	scp_idea_7 = {
+		# needs name
+	}
+}

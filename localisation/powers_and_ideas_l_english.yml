@@ -86,6 +86,28 @@ l_english:
  the_art_of_war_desc:0 "Raw strength alone will not defeat the heretics. We must always seek new tactics and better weapons to ensure our superiority."
  the_hordes:0 "The Hordes"
  the_hordes_desc:0 "Many are those who worship Yuuka, and many indeed are our battle brothers. Let us see how our enemies handle numbers and strength combined."
+ SCP_ideas:0 "Scaperian Ideas"
+ SCP_ideas_start:0 "Scaperian Traditions"
+ SCP_ideas_bonus:0 "Scaperian Ambition"
+ the_king_of_bots:0 "The King of Bots"
+ the_king_of_bots_desc:0 "t!fishy"
+ scapertown_shipyards:0 "Scapertown Shipyards"
+ scapertown_shipyards_desc:0 "The shipyards at Scapertown shall be the greatest shipyards of the Shrine."
+ hellbird_alliance:0 "The Alliance of Hellbirds"
+ hellbird_alliance_desc:0 "We ought to protect our interests. Alliances would be the best of methods to protect those interests."
+ scp_idea_4:0 "REPLACE_ME"
+ scp_idea_4_desc:0 "REPLACE_ME"
+ scp_idea_5:0 "REPLACE_ME"
+ scp_idea_5_desc:0 "REPLACE_ME"
+ scp_idea_6:0 "REPLACE_ME"
+ scp_idea_6_desc:0 "REPLACE_ME"
+ scp_idea_7:0 "REPLACE_ME"
+ scp_idea_7_desc:0 "REPLACE_ME"
+
+
+
+
+
  mil_tech_cost_modifier:0 "Military Technology Cost"
  adm_tech_cost_modifier:0 "Administrative Technology Cost"
  dip_tech_cost_modifier:0 "Diplomatic Technology Cost"
