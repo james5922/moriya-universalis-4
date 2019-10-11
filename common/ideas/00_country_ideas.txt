@@ -123,3 +123,92 @@ MAD_ideas = {
 		number_of_cannons_flagship_modifier = 2
 	}
 }
+
+GLO_ideas = {
+	start = {
+		global_tax_modifier = 0.2
+		global_trade_goods_size_modifier = 0.2
+	}
+	
+	bonus = {
+		prestige = 2
+	}
+	
+	trigger = {
+		tag = GLO
+	}
+	free = yes
+	
+	workers_revolution = {
+		production_efficiency = 0.10
+		global_manpower_modifier = 0.33
+	}
+	war_of_liberation = {
+		reinforce_cost_modifier = -0.15
+		discipline = 0.05
+	}
+	fields_of_war = {
+		army_tradition = 1
+		leader_land_manuever = 2
+	}
+	ultima_ratio_regum = {
+		artillery_power = 0.33
+		artillery_cost = -0.1
+	}
+	the_state = {
+		administrative_efficiency = 0.33
+		yearly_absolutism = 0.2
+	}
+	uncontested_rule = {
+		land_morale = 0.15
+		naval_morale = 0.15
+ 	}
+	the_great_blob = {
+		max_states = 10
+		core_creation = -0.5
+	}
+}
+
+MOS_ideas = {
+	start = {
+		shock_damage = 0.2
+		unjustified_demands = -0.25
+		may_recruit_female_generals = yes
+	}
+	
+	bonus = {
+		discipline = 0.5
+	}
+	
+	trigger = {
+		tag = MOS
+	}
+	free = yes
+	
+	slay_the_strong = {
+		land_morale = 0.2
+	}
+	trample_the_weak = {
+		raze_power_gain = 1
+		may_perform_slave_raid = yes
+	}
+	the_fittest_survive = {
+		drill_gain_modifier = 0.4
+		army_tradition = 1
+	}
+	the_hunt = {
+		movement_speed = 0.2
+		cavalry_power = 0.2
+	}
+	live_to_fight = {
+		global_regiment_cost = 0.2
+		manpower_recovery_speed = 0.5
+	}
+	the_art_of_war = {
+		mil_tech_cost_modifier = -0.1
+		leader_land_shock = 1
+ 	}
+	the_hordes = {
+		infantry_power = 0.33
+	}
+}
