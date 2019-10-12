@@ -229,25 +229,27 @@ SCP_ideas = {
 	free = yes
 
 	the_king_of_bots = {
-		production_efficiency = 0.05
+		production_efficiency = 0.1
 	}
 	scapertown_shipyards = {
 		naval_forcelimit_modifier = 0.2
+		global_sailors_modifier = 0.3
 	}
 	hellbird_alliance = {
 		diplomats = 1
 		diplomatic_upkeep = 1
 	}
-	scp_idea_4 = {
-		# needs name
+	the_inner_circles = {
+		global_spy_defence = 0.2
 	}
-	scp_idea_5 = {
-		# needs name
+	a_colonial_empire = {
+		global_colonial_growth = 20
+		colonist_placement_chance = 0.07
 	}
-	scp_idea_6 = {
-		# needs name
+	expert_blockadery = {
+		blockade_efficiency = 0.2
 	}
-	scp_idea_7 = {
-		# needs name
+	mature_shipbuilding_industry = {
+		global_ship_recruit_speed = -0.4
 	}
 }

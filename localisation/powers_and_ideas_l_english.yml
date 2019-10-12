@@ -95,14 +95,14 @@ l_english:
  scapertown_shipyards_desc:0 "The shipyards at Scapertown shall be the greatest shipyards of the Shrine."
  hellbird_alliance:0 "The Alliance of Hellbirds"
  hellbird_alliance_desc:0 "We ought to protect our interests. Alliances would be the best of methods to protect those interests."
- scp_idea_4:0 "REPLACE_ME"
- scp_idea_4_desc:0 "REPLACE_ME"
- scp_idea_5:0 "REPLACE_ME"
- scp_idea_5_desc:0 "REPLACE_ME"
- scp_idea_6:0 "REPLACE_ME"
- scp_idea_6_desc:0 "REPLACE_ME"
- scp_idea_7:0 "REPLACE_ME"
- scp_idea_7_desc:0 "REPLACE_ME"
+ the_inner_circles:0 "The Inner Circles"
+ the_inner_circles_desc:0 "Our nation has quite the number of internal and inner circles. We should take advantage of these circles to stop foreign espionage plots in their tracks."
+ a_colonial_empire:0 "A Colonial Empire"
+ a_colonial_empire_desc:0 "We are a strong empire, and to get others to see us as such, we need strong colonies."
+ expert_blockadery:0 "Expert Blockadery"
+ expert_blockadery_desc:0 "Our captains and naval artillerymen have gone through plenty of blockades, and through these blockades they have become experienced in such things."
+ mature_shipbuilding_industry:0 "Mature Shipbuilding Industry"
+ mature_shipbuilding_industry_desc:0 "Our push for naval dominance has led to the maturing of our nation's ship construction industry. This allows future ships to be built faster than ever."
 
 
 
