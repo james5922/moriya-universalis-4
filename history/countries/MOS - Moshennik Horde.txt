@@ -1,2 +1,5 @@
 government = flower_horde
 government_rank = 2
+
+# primary_culture = {PLACEHOLDER}
+religion = yukaism
