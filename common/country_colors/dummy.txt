@@ -1,1 +1,4 @@
 # This is a dummy file.
+# Europa Universalis 4 uses the colors of a country's flag to determine
+# what color of coat to give its soldiers. However, the game can sometimes mess this up.
+# If this happens, define static country colors here.
