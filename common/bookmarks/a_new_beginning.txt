@@ -1,0 +1,13 @@
+bookmark = {
+	name = "A_NEW_BEGINNING"
+	desc = "A_NEW_BEGINNING_DESC"
+	date = 1444.11.11
+
+	default = yes
+
+	country = CRF
+	country = MOS
+	country = SCI
+	country = CMR
+	country = MAD
+}

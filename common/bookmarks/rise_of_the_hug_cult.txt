@@ -1,0 +1,8 @@
+bookmark = {
+	name = "RISE_OF_THE_HUG_CULT"
+	desc = "RISE_OF_THE_HUG_CULT_DESC"
+	date = 1500.01.01 ## please change this value if Hug Cult date changes in /common/religions/
+
+	country = MOT
+	country = CMR
+}
