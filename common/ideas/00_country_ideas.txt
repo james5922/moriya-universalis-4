@@ -215,11 +215,12 @@ MOS_ideas = {
 
 SCP_ideas = {
 	start = {
-	
+		merchants = 1
+		global_trade_power = 0.3
 	}
 
 	bonus = {
-	
+		envoy_travel_time = -0.2 
 	}
 
 	trigger = {
@@ -232,19 +233,19 @@ SCP_ideas = {
 		production_efficiency = 0.1
 	}
 	scapertown_shipyards = {
-		naval_forcelimit_modifier = 0.2
-		global_sailors_modifier = 0.3
+		naval_forcelimit_modifier = 0.75
+		global_sailors_modifier = 0.5
 	}
 	hellbird_alliance = {
 		diplomats = 1
 		diplomatic_upkeep = 1
 	}
 	the_inner_circles = {
-		global_spy_defence = 0.2
+		global_spy_defence = 0.5
 	}
 	a_colonial_empire = {
 		global_colonial_growth = 20
-		colonist_placement_chance = 0.07
+		colonist_placement_chance = 0.14
 	}
 	expert_blockadery = {
 		blockade_efficiency = 0.2
