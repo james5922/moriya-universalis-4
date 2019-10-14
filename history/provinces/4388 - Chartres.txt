@@ -1,0 +1,20 @@
+#4388 - Chartres
+
+owner = DOT
+controller = DOT
+capital = "Chartres"
+is_city = yes
+# culture = { PLACEHOLDER }
+religion = the_memes
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 6
+# trade_goods = { PLACEHOLDER }
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+add_core = DOT
