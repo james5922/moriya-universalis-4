@@ -103,7 +103,23 @@ l_english:
  expert_blockadery_desc:0 "Our captains and naval artillerymen have gone through plenty of blockades, and through these blockades they have become experienced in such things."
  mature_shipbuilding_industry:0 "Mature Shipbuilding Industry"
  mature_shipbuilding_industry_desc:0 "Our push for naval dominance has led to the maturing of our nation's ship construction industry. This allows future ships to be built faster than ever."
-
+ MIM_ideas:0 "Mimalic Ideas"
+ MIM_ideas_bonus:0 "Mimalic Ambition"
+ MIM_ideas_start:0 "Mimalic Traditions"
+ ghostly_apparition:0 "Ghostly Apparition"
+ ghostly_apparition_desc:0 "Our enemies will never expect the ghostly apparitions that our armies create!"
+ soldier_officer:0 "Soldier-Officer"
+ soldier_officer_desc:0 "After years of experience in battle and in peace, the soldiers have learned more than a thing or two about serving in the army. Perhaps they will now serve best leading those armies."
+ ruthless_extermination:0 "Ruthless Extermination"
+ ruthless_extermination_desc:0 "Mimalia will continue to squash rebellion and treachery, as long as we are around to continue the Ruthless Extermination! Stability above all else!"
+ spark_the_land:0 "Spark The Land!"
+ spark_the_land_desc:0 "If invaders repel our armies, we shall 'Spark The Land!' They shall not get any resources from our proud nation."
+ mima_the_unforgotten:0 "Mima, The Unforgotten"
+ mima_the_unforgotten_desc:0 "Queen Mima... her empire once spanned large distances. We can use this to justify our wars against our many neighbors."
+ organized_mobilization:0 "Organized Mobilization"
+ organized_mobilization_desc:0 "Our new system of mobilization is much improved over the old methods of going from town to town individually."
+ the_apprentice_system:0 "The Apprentice System"
+ the_apprentice_system_desc:0 "The Apprentice System was created relatively recently, in order to advance the skills of our armed forces even further, by way of individual, small group, and large group drilling."
 
 
 

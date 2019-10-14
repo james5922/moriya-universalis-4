@@ -254,3 +254,43 @@ SCP_ideas = {
 		global_ship_recruit_speed = -0.4
 	}
 }
+
+MIM_ideas = {
+	start = {
+		improve_relation_modifier = 0.3
+	}
+
+	bonus = {
+		global_garrison_growth = 0.2
+	}
+
+	trigger = {
+		tag = MIM
+	}
+	
+	free = yes
+
+	ghostly_apparition = {
+		leader_land_shock = 1
+		leader_land_fire = 1
+	}
+	soldier_officer = {
+		free_leader_pool = 1
+		leader_cost = -0.2
+	}
+	ruthless_extermination = {
+		global_unrest = -4
+	}
+	spark_the_land = {
+		hostile_attrition = 1
+	}
+	mima_the_unforgotten = {
+		unjustified_demands = -0.75
+	}
+	organized_mobilization = {
+		reinforce_speed = 0.35
+	}
+	the_apprentice_system = {
+		drill_gain_modifier = 0.75
+	}
+}
