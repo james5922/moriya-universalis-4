@@ -294,3 +294,47 @@ MIM_ideas = {
 		drill_gain_modifier = 0.75
 	}
 }
+
+CRF_ideas = {
+	start = {
+
+	}
+
+	bonus = {
+
+	}
+	
+	trigger = {
+		tag = CRF
+	}
+
+	free = yes
+
+	crf_idea_1 = {
+		# Idea #1
+	}
+
+	crf_idea_2 = {
+		# Idea #2
+	}
+	
+	crf_idea_3 = {
+		# Idea #3
+	}
+	
+	crf_idea_4 = {
+		# Idea #4
+	}
+	
+	crf_idea_5 = {
+		# Idea #5
+	}
+	
+	crf_idea_6 = {
+		# Idea #6
+	}
+	
+	crf_idea_7 = {
+		# Idea #7
+	}
+}
