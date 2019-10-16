@@ -1,0 +1,21 @@
+#4309 - Aydin
+
+owner = MOS
+controller = MOS
+# culture = {PLACEHOLDER}
+religion = yukaism
+capital = "Aydin"
+# trade_goods = {PLACEHOLDER}
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+add_core = MOS
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group

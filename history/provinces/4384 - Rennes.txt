@@ -1,0 +1,20 @@
+#4384 - Rennes
+
+owner = DOT
+controller = DOT
+capital = "Rennes"
+is_city = yes
+# culture = { PLACEHOLDER }
+religion = the_memes
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 4
+# trade_goods = { PLACEHOLDER }
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+add_core = DOT

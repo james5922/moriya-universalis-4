@@ -1,0 +1,6 @@
+# government = { PLACEHOLDER }
+# government_rank = { PLACEHOLDER }
+
+# primary_culture = { PLACEHOLDER }
+religion = the_memes
+capital = 170
