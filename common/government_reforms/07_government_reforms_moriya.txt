@@ -8,4 +8,22 @@ flower_horde_reform = {
 	nomad = yes
 }
 
-	
+moriya_state_reform = {
+	potential = {
+		hre = yes
+		NOT = { has_country_flag = supported_snc } #TODO: Add conditions which would allow "supported_snc" country flag to appear
+	}
+	basic_reform = yes
+	monarchy = yes
+}	
+
+national_union_reform = {
+	potential = {
+		OR = {
+			tag = FLR
+			tag = USH
+		}
+	}
+	basic_reform = yes
+	republic = yes
+}

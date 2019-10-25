@@ -1,0 +1,2 @@
+government = moriya_state # maybe have a special government for the "HRE" emperor
+government_rank = 1

@@ -8,6 +8,22 @@ flower_horde = {
 	# might add actual reforms later idk
 }
 
+moriya_state = {
+	basic_reform = moriya_state_reform
+
+	color = { 100 100 100 } # to be determined
+
+	# might add actual reforms later idk
+}
+
+national_union = {
+	basic_reform = national_union_reform
+
+	color = { 100 100 100 } # to be determined
+
+	# might add actual reforms later idk
+}
+
 # Vanilla Governments
 monarchy = {
 	reform_levels = {
