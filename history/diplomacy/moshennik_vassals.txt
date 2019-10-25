@@ -1,0 +1,6 @@
+vassal = {
+	first = MOS
+	second = PKA
+	start_date = 1444.11.11
+	end_date = 1500.01.01 # TEMPORARY PLACEHOLDER
+}
