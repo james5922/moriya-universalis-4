@@ -1,0 +1,2 @@
+government = moriya_state # MOS vassal... maybe needs special government
+government_rank = 1
