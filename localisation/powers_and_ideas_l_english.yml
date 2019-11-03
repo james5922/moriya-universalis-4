@@ -52,6 +52,7 @@
  the_great_swagmonger_desc:0 "With every meme and every shitpost, they shall learn to praise our name."
  comrade_zhukovs_orders:0 "Comrade Zhukov's orders"
  comrade_zhukovs_orders_desc:0 "The revolution is not yet here. We can speed things along by throwing a body or ten thousand at the problem, can't we ?"
+
  MAD_ideas:0 "Madenic Ideas"
  MAD_ideas_start:0 "Madenic Traditions"
  MAD_ideas_bonus:0 "Madenic Ambition"
@@ -86,6 +87,7 @@
  uncontested_rule_desc:0 "Some would merely rule the waves. We have far greater ambitions."
  the_great_blob:0 "The Great Blob"
  the_great_blob_desc:0 "We shall not rest until all lands are free. ALL OF THEM."
+
  MOS_ideas:0 "Moshi Ideas"
  MOS_ideas_start:0 "Moshi Traditions"
  MOS_ideas_bonus:0 "Moshi Ambition"
@@ -103,6 +105,7 @@
  the_art_of_war_desc:0 "Raw strength alone will not defeat the heretics. We must always seek new tactics and better weapons to ensure our superiority."
  the_hordes:0 "The Hordes"
  the_hordes_desc:0 "Many are those who worship Yuuka, and many indeed are our battle brothers. Let us see how our enemies handle numbers and strength combined."
+
  SCP_ideas:0 "Scaperian Ideas"
  SCP_ideas_start:0 "Scaperian Traditions"
  SCP_ideas_bonus:0 "Scaperian Ambition"
@@ -120,6 +123,7 @@
  expert_blockadery_desc:0 "Our captains and naval artillerymen have gone through plenty of blockades, and through these blockades they have become experienced in such things."
  mature_shipbuilding_industry:0 "Mature Shipbuilding Industry"
  mature_shipbuilding_industry_desc:0 "Our push for naval dominance has led to the maturing of our nation's ship construction industry. This allows future ships to be built faster than ever."
+
  MIM_ideas:0 "Mimalic Ideas"
  MIM_ideas_bonus:0 "Mimalic Ambition"
  MIM_ideas_start:0 "Mimalic Traditions"
@@ -137,13 +141,14 @@
  organized_mobilization_desc:0 "Our new system of mobilization is much improved over the old methods of going from town to town individually."
  the_apprentice_system:0 "The Apprentice System"
  the_apprentice_system_desc:0 "The Apprentice System was created relatively recently, in order to advance the skills of our armed forces even further, by way of individual, small group, and large group drilling."
+
  CRF_ideas:0 "Crafty's Ideas"
  CRF_ideas_bonus:0 "Crafty's Ambition"
  CRF_ideas_start:0 "Crafty's Traditions"
- crf_idea_1:0 "REPLACE_ME"
- crf_idea_1_desc:0 "REPLACE_ME"
- crf_idea_2:0 "REPLACE_ME"
- crf_idea_2_desc:0 "REPLACE_ME"
+ the_old_kings:0 "The Old Kings of Moriya"
+ the_old_kings_desc:0 "REPLACE_ME"
+ the_advisory_board:0 "The Advisory Board"
+ the_advisory_board_desc:0 "REPLACE_ME"
  crf_idea_3:0 "REPLACE_ME"
  crf_idea_3_desc:0 "REPLACE_ME"
  crf_idea_4:0 "REPLACE_ME"
@@ -154,6 +159,24 @@
  crf_idea_6_desc:0 "REPLACE_ME"
  crf_idea_7:0 "REPLACE_ME"
  crf_idea_7_desc:0 "REPLACE_ME"
+
+ JMK_ideas:0 "Prinny Ideas"
+ JMK_ideas_bonus:0 "Prinny Ambition"
+ JMK_ideas_start:0 "Prinny Traditions"
+ protector_of_prinnys:0 "Protector of the Prinnies"
+ protector_of_prinnys_desc:0 "REPLACE_ME"
+ jmk_idea_2:0 "REPLACE_ME"
+ jmk_idea_2_desc:0 "REPLACE_ME"
+ jmk_idea_3:0 "REPLACE_ME"
+ jmk_idea_3_desc:0 "REPLACE_ME"
+ jmk_idea_4:0 "REPLACE_ME"
+ jmk_idea_4_desc:0 "REPLACE_ME"
+ jmk_idea_5:0 "REPLACE_ME"
+ jmk_idea_5_desc:0 "REPLACE_ME"
+ jmk_idea_6:0 "REPLACE_ME"
+ jmk_idea_6_desc:0 "REPLACE_ME"
+ jmk_idea_7:0 "REPLACE_ME"
+ jmk_idea_7_desc:0 "REPLACE_ME"
 
 
 
