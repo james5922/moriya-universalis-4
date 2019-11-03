@@ -318,7 +318,7 @@ CRF_ideas = {
 		# Idea #2
 	}
 	
-	crf_idea_3 = {
+	background_worker = {
 		# Idea #3
 	}
 	
@@ -379,6 +379,50 @@ JMK_ideas = {
 	}
 	
 	jmk_idea_7 = {
+		# Idea #7
+	}
+}
+
+TOY_ideas = {
+	start = {
+
+	}
+
+	bonus = {
+
+	}
+	
+	trigger = {
+		tag = TOY
+	}
+
+	free = yes
+
+	toy_idea_1 = {
+		# Idea #1
+	}
+
+	toy_idea_2 = {
+		# Idea #2
+	}
+	
+	my_neighbor_burnziie = {
+		diplomatic_upkeep = 1
+	}
+	
+	toy_idea_4 = {
+		# Idea #4
+	}
+	
+	eventual_friendship = {
+		improve_relation_modifier = 0.4
+	}
+	
+	toy_idea_6 = {
+		# Idea #6
+	}
+	
+	toy_idea_7 = {
 		# Idea #7
 	}
 }

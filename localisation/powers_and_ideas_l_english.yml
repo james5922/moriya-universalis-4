@@ -178,6 +178,24 @@
  jmk_idea_7:0 "REPLACE_ME"
  jmk_idea_7_desc:0 "REPLACE_ME"
 
+ TOY_ideas:0 "Miko Ideas"
+ TOY_ideas_bonus:0 "Miko Ambition"
+ TOY_ideas_start:0 "Miko Traditions"
+ toy_idea_1:0 "REPLACE_ME"
+ toy_idea_1_desc:0 "REPLACE_ME"
+ toy_idea_2:0 "REPLACE_ME"
+ toy_idea_2_desc:0 "REPLACE_ME"
+ my_neighbor_burnziie:0 "My Neighbor Burnziie"
+ my_neighbor_burnziie_desc:0 "REPLACE_ME"
+ toy_idea_4:0 "REPLACE_ME"
+ toy_idea_4_desc:0 "REPLACE_ME"
+ eventual_friendship:0 "Eventual Friendship"
+ eventual_friendship_desc:0 "They'll be friendly eventually, I guess..."
+ toy_idea_6:0 "REPLACE_ME"
+ toy_idea_6_desc:0 "REPLACE_ME"
+ toy_idea_7:0 "REPLACE_ME"
+ toy_idea_7_desc:0 "REPLACE_ME"
+
 
 
  mil_tech_cost_modifier:0 "Military Technology Cost"
