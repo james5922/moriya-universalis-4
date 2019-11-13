@@ -355,7 +355,7 @@ JMK_ideas = {
 	free = yes
 
 	protector_of_prinnys = {
-		# Idea #1
+		prestige_decay = -0.1
 	}
 
 	jmk_idea_2 = {
@@ -423,6 +423,52 @@ TOY_ideas = {
 	}
 	
 	toy_idea_7 = {
+		# Idea #7
+	}
+}
+
+TOR_ideas = {
+	start = {
+
+	}
+
+	bonus = {
+
+	}
+	
+	trigger = {
+		tag = TOR
+	}
+
+	free = yes
+
+	the_webmaster = {
+		adm_tech_cost_modifier = -0.25
+		dip_tech_cost_modifier = -0.25
+		mil_tech_cost_modifier = -0.25
+	}
+
+	tor_idea_2 = {
+		# Idea #2
+	}
+	
+	tor_idea_3 = {
+		# Idea #3
+	}
+	
+	tor_idea_4 = {
+		# Idea #4
+	}
+	
+	tor_idea_5 = {
+		# Idea #5
+	}
+	
+	tor_idea_6 = {
+		# Idea #6
+	}
+	
+	tor_idea_7 = {
 		# Idea #7
 	}
 }
