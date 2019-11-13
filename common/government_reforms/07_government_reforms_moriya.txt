@@ -17,6 +17,14 @@ moriya_state_reform = {
 	monarchy = yes
 }	
 
+castle_state_reform = {
+	potential = {
+		has_country_flag = supported_snc
+	}
+	basic_reform = yes
+	monarchy = yes #TODO: Add further details
+}
+
 national_union_reform = {
 	potential = {
 		OR = {

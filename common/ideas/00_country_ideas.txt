@@ -311,15 +311,16 @@ CRF_ideas = {
 	free = yes
 
 	the_old_kings = {
-		# Idea #1
+		improve_relation_modifier = 0.25
 	}
 
 	the_advisory_board = {
-		# Idea #2
+		global_unrest = -2
 	}
 	
 	background_worker = {
-		# Idea #3
+		global_garrison_growth = 0.5
+		garrison_size = 0.4
 	}
 	
 	crf_idea_4 = {
@@ -358,8 +359,9 @@ JMK_ideas = {
 		prestige_decay = -0.1
 	}
 
-	jmk_idea_2 = {
-		# Idea #2
+	can_really_be_hero = {
+		leader_land_fire = 1
+		leader_land_shock = 1
 	}
 	
 	jmk_idea_3 = {

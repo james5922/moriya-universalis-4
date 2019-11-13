@@ -24,6 +24,14 @@ national_union = {
 	# might add actual reforms later idk
 }
 
+castle_state = {
+	basic_reform = castle_state_reform
+
+	color = { 100 100 100 } # to be determined
+
+	# might add actual reforms later idk
+}
+
 # Vanilla Governments
 monarchy = {
 	reform_levels = {
