@@ -297,7 +297,7 @@ MIM_ideas = {
 
 CRF_ideas = {
 	start = {
-
+		production_efficiency = 0.5
 	}
 
 	bonus = {
@@ -318,7 +318,7 @@ CRF_ideas = {
 		global_unrest = -2
 	}
 	
-	background_worker = {
+	crf_idea_3 = {
 		global_garrison_growth = 0.5
 		garrison_size = 0.4
 	}
@@ -342,7 +342,7 @@ CRF_ideas = {
 
 JMK_ideas = {
 	start = {
-
+		num_accepted_cultures = 3
 	}
 
 	bonus = {
@@ -387,7 +387,7 @@ JMK_ideas = {
 
 TOY_ideas = {
 	start = {
-
+			## TODO: Add modifier/event to represent Burnziie's anti-conflict nature
 	}
 
 	bonus = {
@@ -412,7 +412,7 @@ TOY_ideas = {
 		diplomatic_upkeep = 1
 	}
 	
-	toy_idea_4 = {
+	calm_and_collected = {
 		# Idea #4
 	}
 	
@@ -450,7 +450,7 @@ TOR_ideas = {
 		mil_tech_cost_modifier = -0.25
 	}
 
-	tor_idea_2 = {
+	the_changeover = {
 		# Idea #2
 	}
 	
