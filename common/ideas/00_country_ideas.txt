@@ -365,7 +365,7 @@ JMK_ideas = {
 	}
 	
 	jmk_idea_3 = {
-		# Idea #3
+		
 	}
 	
 	jmk_idea_4 = {
