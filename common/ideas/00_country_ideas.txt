@@ -346,7 +346,8 @@ JMK_ideas = {
 	}
 
 	bonus = {
-
+		land_attrition = -0.3
+		hostile_attrition = 0.3
 	}
 	
 	trigger = {
@@ -455,20 +456,20 @@ TOR_ideas = {
 		global_institution_spread = 0.3
 	}
 	
-	tor_idea_3 = {
-		# Idea #3
+	nitoribot = {
+		global_regiment_recruit_speed = -0.33
 	}
 	
-	tor_idea_4 = {
-		# Idea #4
+	certificates_of_battle = {
+		prestige_from_land = 0.25
 	}
 	
-	tor_idea_5 = {
-		# Idea #5
+	long_reigning_leader = {
+		army_tradition = 1.0
 	}
 	
-	tor_idea_6 = {
-		# Idea #6
+	the_growth = {
+		land_forcelimit_modifier = 0.2
 	}
 	
 	tor_idea_7 = {
