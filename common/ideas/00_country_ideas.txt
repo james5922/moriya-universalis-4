@@ -366,23 +366,23 @@ JMK_ideas = {
 	}
 	
 	jmk_idea_3 = {
-		
+		years_of_nationalism = -5
 	}
 	
-	jmk_idea_4 = {
-		# Idea #4
+	paid_ransackers = {
+		loot_amount = 0.15
 	}
 	
 	jmk_idea_5 = {
-		# Idea #5
+		siege_ability = 0.25
 	}
 	
-	jmk_idea_6 = {
-		# Idea #6
+	puppet_commanders = {
+		vassal_forcelimit_bonus = 0.33
 	}
 	
-	jmk_idea_7 = {
-		# Idea #7
+	prinny_cities = {
+		development_cost = -0.25
 	}
 }
 
