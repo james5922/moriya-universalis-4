@@ -4,13 +4,13 @@ owner = DOT
 controller = DOT
 capital = "Rennes"
 is_city = yes
-# culture = { PLACEHOLDER }
+culture = culture_placeholder
 religion = the_memes
 hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 4
-# trade_goods = { PLACEHOLDER }
+trade_goods = grain
 
 discovered_by = western
 discovered_by = eastern

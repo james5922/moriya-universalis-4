@@ -1,0 +1,15 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx 
+
+color = { 136 122 184 } # PLACEHOLDER
+
+monarch_names = { "Moshennik #1" = 100 }
+
+leader_names = { "of Yuukadome" } 
+
+ship_names = { "Placeholder" } 
+
+army_names = { "Placeholder Army" } 
+
+fleet_names = { "Placeholder Fleet" }

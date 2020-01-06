@@ -1,0 +1,14 @@
+# Meppen
+
+owner = MDN
+controller = MDN
+add_core = MDN
+culture = culture_placeholder
+religion = the_memes
+trade_goods = cloth
+capital = "Meppen"
+base_tax = 4
+base_production = 4
+base_manpower = 1
+is_city = yes
+hre = yes

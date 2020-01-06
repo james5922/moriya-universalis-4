@@ -1,18 +1,18 @@
 #149 - Edirne
 
-owner = MOS
-controller = MOS
-# culture = {PLACEHOLDER}
+owner = MSH
+controller = MSH
+culture = culture_placeholder
 religion = yukaism
 capital = "Edirne"
-# trade_goods = {PLACEHOLDER}
+trade_goods = grain
 hre = no
 base_tax = 7
 base_production = 7
 base_manpower = 2
 is_city = yes
 
-add_core = MOS
+add_core = MSH
 
 discovered_by = western
 discovered_by = eastern

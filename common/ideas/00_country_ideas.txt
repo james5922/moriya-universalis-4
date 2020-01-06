@@ -82,7 +82,7 @@ DOT_ideas = {
 	}
 }
 
-MAD_ideas = {
+MDN_ideas = {
 	start = {
 		discipline = 0.05
 		global_trade_goods_size_modifier = 0.1
@@ -93,7 +93,7 @@ MAD_ideas = {
 	}
 	
 	trigger = {
-		tag = MAD
+		tag = MDN
 	}
 	free = yes
 	
@@ -169,7 +169,7 @@ GLO_ideas = {
 	}
 }
 
-MOS_ideas = {
+MSH_ideas = {
 	start = {
 		shock_damage = 0.2
 		unjustified_demands = -0.25
@@ -181,7 +181,7 @@ MOS_ideas = {
 	}
 	
 	trigger = {
-		tag = MOS
+		tag = MSH
 	}
 	free = yes
 	
@@ -422,7 +422,7 @@ TOY_ideas = {
 	}
 	
 	central_intelligence = {
-		global_spy_defense = 0.25
+		global_spy_defence = 0.25
 	}
 	
 	freedom_of_religion = {

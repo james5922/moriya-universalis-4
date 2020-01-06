@@ -2,7 +2,7 @@
 
 flower_horde_reform = {
 	potential = {
-		tag = MOS
+		tag = MSH
 	}
 	basic_reform = yes
 	nomad = yes
@@ -10,7 +10,6 @@ flower_horde_reform = {
 
 moriya_state_reform = {
 	potential = {
-		hre = yes
 		NOT = { has_country_flag = supported_snc } #TODO: Add conditions which would allow "supported_snc" country flag to appear
 	}
 	basic_reform = yes

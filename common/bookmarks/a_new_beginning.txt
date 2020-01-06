@@ -6,8 +6,8 @@ bookmark = {
 	default = yes
 
 	country = CRF
-	country = MOS
+	country = MSH
 	country = SCI
 	country = CMR
-	country = MAD
+	country = MDN
 }

@@ -1,18 +1,18 @@
 #4309 - Aydin
 
-owner = MOS
-controller = MOS
-# culture = {PLACEHOLDER}
+owner = MSH
+controller = MSH
+culture = culture_placeholder
 religion = yukaism
 capital = "Aydin"
-# trade_goods = {PLACEHOLDER}
+trade_goods = grain
 hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
 
-add_core = MOS
+add_core = MSH
 
 discovered_by = western
 discovered_by = eastern

@@ -1,0 +1,17 @@
+culture_group_placeholder = {
+	graphical_culture = westerngfx
+	
+	culture_placeholder = {
+		primary = MDN
+		
+		male_names = {
+			Placeholder
+		}
+		female_names = {
+			Placeholder
+		}
+		dynasty_names = {
+			"Placeholder"
+		}
+	}
+}
