@@ -1,0 +1,21 @@
+# - Euboea
+
+owner = MSH
+controller = MSH
+culture = culture_placeholder
+religion = yukaism
+add_core = MSH
+capital = "Negroponte"
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+
+
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = western

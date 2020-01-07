@@ -1,0 +1,19 @@
+#1827 - Raska
+
+owner = MSH
+controller = MSH
+culture = culture_placeholder
+religion = yukaism
+add_core = MSH
+capital = "Trgoviste"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

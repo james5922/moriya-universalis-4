@@ -1,0 +1,19 @@
+#143 - Vlorë - Southern Albania
+
+owner = MSH
+controller = MSH
+culture = culture_placeholder
+religion = yukaism
+add_core = MSH
+capital = "Vlorë"
+trade_goods = wool #or salt
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = western
