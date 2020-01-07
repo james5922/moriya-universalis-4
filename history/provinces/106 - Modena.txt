@@ -1,0 +1,25 @@
+#106 - Modena
+
+
+
+owner = SCI
+controller = SCI
+add_core = SCI
+culture = culture_placeholder
+religion = the_memes
+ 
+hre = yes 
+base_tax = 5 
+base_production = 5  
+trade_goods = livestock
+base_manpower = 2  
+capital = "Modena" 
+is_city = yes
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+

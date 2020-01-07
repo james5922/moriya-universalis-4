@@ -1,0 +1,21 @@
+#X2 - Turpan
+
+		# ruled by a Chagataiid 
+
+
+
+
+capital = "Balikul"
+trade_goods = wine
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+
+discovered_by = chinese
+discovered_by = nomad_group
+
+
+

@@ -1,0 +1,21 @@
+#4511 - Bhera
+
+
+
+
+
+capital = "Bhera"
+trade_goods = salt
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+estate = estate_nobles
+
+
+
+discovered_by = indian
+discovered_by = muslim 
+discovered_by = ottoman
+discovered_by = nomad_group

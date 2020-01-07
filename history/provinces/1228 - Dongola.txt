@@ -1,0 +1,21 @@
+#1228 - Dongola
+
+ 
+
+capital = "Dunqula"
+
+
+
+
+is_city = yes
+trade_goods = grain
+base_manpower = 2
+hre = no
+base_tax = 2
+base_production = 1
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman
+
+
+

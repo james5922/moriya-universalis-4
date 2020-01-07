@@ -1,0 +1,21 @@
+#949 - Monacan
+
+
+
+capital = "Monacan"
+trade_goods = naval_supplies
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 4
+
+
+
+discovered_by = north_american
+
+
+
+

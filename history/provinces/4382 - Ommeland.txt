@@ -1,0 +1,21 @@
+# 4383 Ommeland - Groningen, Ommeland & Drenthe
+
+
+
+capital = "Groningen"
+is_city = yes
+
+
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+trade_goods = cloth 
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+

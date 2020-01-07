@@ -1,0 +1,21 @@
+# - Syracusa
+
+
+
+ 
+ 
+hre = no 
+base_tax = 6
+base_production = 6
+trade_goods = wine
+base_manpower = 4
+capital = "Syracusa"
+is_city = yes
+
+
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim

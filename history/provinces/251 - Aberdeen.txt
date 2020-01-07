@@ -1,0 +1,21 @@
+#251 - Aberdeen
+
+
+
+ #Mix of Highland and Lowland Scotts 
+
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = fish
+base_manpower = 3
+capital = "Aberdeen"
+is_city = yes
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+
+

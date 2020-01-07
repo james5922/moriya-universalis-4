@@ -1,0 +1,21 @@
+#649 - Ternate
+
+
+
+
+
+capital = "Ternate"
+trade_goods = spices
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+discovered_by = MAJ
+discovered_by = MKS
+discovered_by = BLI
+discovered_by = BAN
+discovered_by = BEI
+discovered_by = BLM
+discovered_by = BTN

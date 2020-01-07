@@ -1,0 +1,21 @@
+#1818 - Chikuzen
+
+latent_trade_goods = {
+	coal
+}
+
+
+
+
+
+capital = "Hakata"
+trade_goods = chinaware
+hre = no
+base_tax = 5
+base_production = 3
+base_manpower = 2
+is_city = yes
+fort_15th = yes #Tachibanayama Castle
+
+discovered_by = chinese
+discovered_by = MCH

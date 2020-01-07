@@ -1,0 +1,21 @@
+#410 - Iraq-i-Arab
+
+
+
+
+
+capital = "Baghdad"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 4
+is_city = yes
+fort_15th = yes
+
+
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = indian

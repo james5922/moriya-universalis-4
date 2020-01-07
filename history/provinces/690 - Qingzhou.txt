@@ -1,0 +1,21 @@
+#690 - Shandong Bandao
+
+
+
+
+
+
+capital = "Qingzhou"
+trade_goods = iron
+hre = no
+base_tax = 5 
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group
+

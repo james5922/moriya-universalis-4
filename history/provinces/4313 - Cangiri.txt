@@ -1,0 +1,21 @@
+#4313 - Kangiri
+
+
+
+
+
+capital = "Kangiri"
+trade_goods = wool
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+estate = estate_nobles
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

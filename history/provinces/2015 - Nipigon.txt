@@ -1,0 +1,21 @@
+# No previous file for Nipigon
+
+
+ 
+capital = "Nipigon" 
+trade_goods = fur
+hre = no 
+base_tax = 1
+base_production = 1 
+base_manpower = 1 
+is_city = yes
+
+
+
+native_size = 5
+native_ferocity = 6
+native_hostileness = 1
+
+
+
+discovered_by = north_american

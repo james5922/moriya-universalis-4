@@ -1,0 +1,21 @@
+#1846 - Amasya
+
+
+
+
+
+capital = "Amasya"
+trade_goods = paper #and iron
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim

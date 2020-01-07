@@ -1,0 +1,21 @@
+#1792 - Imerina
+
+
+
+
+
+ #Fetishism
+capital = "Alasora"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+discovered_by = east_african
+
+
+
+
+
+

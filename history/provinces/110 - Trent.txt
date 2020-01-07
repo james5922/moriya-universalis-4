@@ -1,0 +1,25 @@
+#110 - Trent
+
+
+
+
+
+owner = CMR
+controller = CMR
+add_core = CMR
+culture = culture_placeholder
+religion = the_memes
+
+hre = yes
+base_tax = 4 
+base_production = 4
+trade_goods = iron 
+base_manpower = 1
+capital = "Trent"
+estate = estate_church
+is_city = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

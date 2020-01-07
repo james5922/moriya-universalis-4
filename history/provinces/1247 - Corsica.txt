@@ -1,0 +1,25 @@
+#1247 - Corsica
+
+
+
+owner = SCI
+controller = SCI
+add_core = SCI
+culture = culture_placeholder
+religion = the_memes
+
+capital = "Bastia"
+hre = yes
+base_tax = 3 
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 2
+is_city = yes
+
+
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim

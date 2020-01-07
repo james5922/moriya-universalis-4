@@ -1,0 +1,21 @@
+#2760 - Hadiya
+
+
+
+
+ 
+
+capital = "Angacha"
+is_city = yes
+base_manpower = 2
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+
+
+	discovered_by = ADA

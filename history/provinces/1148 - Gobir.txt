@@ -1,0 +1,21 @@
+#1148 - Gobir
+
+
+
+
+
+is_city = yes
+base_manpower = 3
+
+capital = "Birnin Lalle"
+trade_goods = iron
+hre = no
+base_tax = 3 
+base_production = 3
+
+
+
+discovered_by = sub_saharan
+
+
+

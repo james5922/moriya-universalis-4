@@ -1,0 +1,21 @@
+#284 - Crimea
+
+
+
+
+
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = salt
+base_manpower = 6
+capital = "Qirq-Yer"
+is_city = yes
+fort_15th = yes #Qirq-Yer Fortress
+
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim

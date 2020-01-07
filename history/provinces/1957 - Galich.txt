@@ -1,0 +1,21 @@
+#Galich
+
+
+
+capital = "Galich"
+
+
+trade_goods = salt
+hre = no
+base_tax = 4
+base_production = 5 #Huge Salt Mine
+base_manpower = 2
+is_city = yes
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = GOL
+discovered_by = nomad_group
+
+
+

@@ -1,0 +1,21 @@
+#2684 - Nias
+
+
+
+capital = "Nias"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 2
+native_hostileness = 2
+
+
+
+discovered_by = ATJ
+discovered_by = MAJ
+discovered_by = MKS
+discovered_by = BLI
+discovered_by = BAN

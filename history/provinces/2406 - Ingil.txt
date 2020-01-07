@@ -1,0 +1,21 @@
+#2406 - Ingil
+
+
+
+
+
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = wine
+base_manpower = 1
+capital = "Kyzy-Kermen"
+is_city = yes
+add_local_autonomy = 25
+
+
+
+
+
+discovered_by = western
+discovered_by = eastern

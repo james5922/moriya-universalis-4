@@ -1,0 +1,21 @@
+# 193 Franche-Comté - Principal cities: Besançon
+
+
+ 
+capital = "Besançon"
+is_city = yes
+estate = estate_burghers
+
+
+hre = yes
+base_tax = 5 
+base_production = 5
+trade_goods = salt
+base_manpower = 4
+
+fort_15th = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

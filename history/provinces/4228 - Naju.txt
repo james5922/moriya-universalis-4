@@ -1,0 +1,21 @@
+#4228 - Naju
+
+
+
+
+
+capital = "Naju"
+trade_goods = paper #And Silk
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = chinese
+discovered_by = nomad_group
+estate = estate_church
+
+
+
+

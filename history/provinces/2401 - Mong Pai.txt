@@ -1,0 +1,21 @@
+#2401 - Mong Pai
+
+
+
+
+
+capital = "Mong Pai"
+trade_goods = tropical_wood
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+
+
+
+discovered_by = chinese
+discovered_by = indian
+
+

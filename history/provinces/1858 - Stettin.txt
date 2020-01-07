@@ -1,0 +1,21 @@
+#1858 - Stettin
+
+
+
+
+
+
+trade_goods = naval_supplies
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+capital = "Stettin"
+is_city = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+extra_cost = 10
+

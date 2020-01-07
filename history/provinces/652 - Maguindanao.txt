@@ -1,0 +1,16 @@
+#652 - Maguindanao
+
+
+
+capital = "Maguindanao"
+trade_goods = spices
+hre = no
+is_city = yes
+base_tax = 5
+base_production = 5
+base_manpower = 3
+discovered_by = chinese
+
+
+
+

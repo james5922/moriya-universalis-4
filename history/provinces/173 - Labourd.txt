@@ -1,0 +1,21 @@
+# 173 Labourd - Principal cities: Bayonne (can't change file name)
+
+
+
+capital = "Bayonne"
+is_city = yes
+
+
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = wine
+base_manpower = 4
+
+
+fort_15th = yes
+
+
+
+discovered_by = eastern
+discovered_by = western

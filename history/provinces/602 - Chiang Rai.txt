@@ -1,0 +1,21 @@
+#602 - Chiang Rai
+
+
+
+
+
+capital = "Chiang Rai"
+trade_goods = grain 
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+
+
+
+discovered_by = chinese
+discovered_by = indian
+
+

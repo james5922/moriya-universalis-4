@@ -1,4 +1,0 @@
-# user joined moriya 03-31-2018
-
-government = national_union
-government_rank = 1

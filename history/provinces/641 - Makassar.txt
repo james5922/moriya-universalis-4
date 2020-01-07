@@ -1,0 +1,21 @@
+#641 - Makassar
+
+
+
+
+
+capital = "Makassar"
+trade_goods = spices
+hre = no
+base_tax = 8 
+base_production = 8
+base_manpower = 5
+is_city = yes
+
+discovered_by = ATJ
+discovered_by = MAJ
+discovered_by = MKS
+discovered_by = BLI
+discovered_by = BAN
+discovered_by = BEI
+discovered_by = BLM

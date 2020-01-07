@@ -1,0 +1,21 @@
+# No previous file for Sotuta
+
+ 
+
+
+
+capital = "Chikinchel" 
+trade_goods = fish 
+hre = no 
+base_tax = 4 
+base_production = 4 
+base_manpower = 1 
+is_city = yes
+
+
+discovered_by = mesoamerican
+
+
+
+
+	 

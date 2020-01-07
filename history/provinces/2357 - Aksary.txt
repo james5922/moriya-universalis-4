@@ -1,0 +1,21 @@
+# 2357 - Aksary
+
+
+
+
+
+capital = "Aksary"
+trade_goods = naval_supplies
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+
+
+
+
+discovered_by = KZH
+discovered_by = KAZ
+discovered_by = muslim

@@ -1,0 +1,21 @@
+#2713 - Gorontalo
+
+
+
+capital = "Gorontalo"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+native_size = 60
+native_ferocity = 2
+native_hostileness = 7
+
+
+
+discovered_by = ATJ
+discovered_by = MAJ
+discovered_by = MKS
+discovered_by = BLI
+discovered_by = BAN

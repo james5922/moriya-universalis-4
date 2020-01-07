@@ -1,0 +1,25 @@
+#1771 - Erz
+
+
+
+
+capital = "Litomerice"
+
+owner = CRF
+controller = CRF
+add_core = CRF
+culture = culture_placeholder
+religion = the_memes
+trade_goods = glass 
+hre = yes
+base_tax = 5 
+base_production = 5
+base_manpower = 3
+is_city = yes
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern

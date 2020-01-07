@@ -1,0 +1,21 @@
+# 4685 - Karagandy
+
+
+
+
+
+capital = "Karagandy"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+
+
+
+
+discovered_by = KAS
+discovered_by = muslim
+discovered_by = ottoman

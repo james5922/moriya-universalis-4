@@ -1,0 +1,21 @@
+#52 - Altmark
+
+
+
+
+
+
+hre = yes
+base_tax = 4
+base_production = 4
+trade_goods = cloth
+base_manpower = 2
+capital = "Stendal"
+estate = estate_burghers #Altmärkische Städtebund
+is_city = yes
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim

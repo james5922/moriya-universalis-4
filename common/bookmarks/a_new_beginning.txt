@@ -5,9 +5,9 @@ bookmark = {
 
 	default = yes
 
-	country = CRF
 	country = MSH
+	country = MDN
 	country = SCI
 	country = CMR
-	country = MDN
+	country = CRF
 }

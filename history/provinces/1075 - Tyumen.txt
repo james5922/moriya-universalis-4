@@ -1,0 +1,21 @@
+#1075 - Tyumen
+
+
+
+capital = "Chimgi-Tura"
+
+
+trade_goods = fur
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 4
+is_city = yes
+
+
+discovered_by = nomad_group
+unrest = 15
+
+
+	
+	

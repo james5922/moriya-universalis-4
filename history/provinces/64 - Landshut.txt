@@ -1,0 +1,25 @@
+#64 - Landshut
+
+
+
+owner = CMR
+controller = CMR
+add_core = CMR
+culture = culture_placeholder
+religion = the_memes
+
+
+base_tax = 5
+base_production = 5
+trade_goods = salt
+base_manpower = 2
+fort_15th = yes #Trausnitz Castle
+capital	= "Landshut" 
+is_city = yes
+estate = estate_nobles
+hre = yes
+
+
+
+discovered_by = eastern
+discovered_by = western

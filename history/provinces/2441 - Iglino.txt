@@ -1,0 +1,21 @@
+#2441 - Iglino
+
+
+
+capital = "Iglino"
+
+
+trade_goods = fur
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+
+discovered_by = nomad_group
+unrest = 15
+
+
+	
+	

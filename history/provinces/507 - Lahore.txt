@@ -1,0 +1,21 @@
+#507 - Lahore
+
+
+
+
+
+capital = "Lahore"
+trade_goods = silk
+hre = no
+base_tax = 10
+base_production = 10
+base_manpower = 3
+is_city = yes
+
+
+
+
+estate = estate_church
+fort_15th = yes #Lahore Fort
+#Data Durbar Complex
+discovered_by = indian

@@ -1,0 +1,21 @@
+#2372 - Hai Phong
+
+
+
+
+
+capital = "Hai Phong"
+trade_goods = naval_supplies
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+
+
+
+
+discovered_by = chinese
+discovered_by = indian
+
+extra_cost = 10

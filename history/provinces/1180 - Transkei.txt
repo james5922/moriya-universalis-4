@@ -1,0 +1,16 @@
+#1180 - Transkei
+
+
+ #Fetishism
+capital = "Thembu"
+native_size = 70
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_ferocity = 4
+native_hostileness = 9 
+
+
+

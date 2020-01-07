@@ -1,0 +1,21 @@
+#279 - Rowne
+
+
+
+
+
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = livestock 
+base_manpower = 1
+capital = "Rowne"
+is_city = yes
+
+
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim

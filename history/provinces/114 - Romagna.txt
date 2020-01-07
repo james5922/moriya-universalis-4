@@ -1,0 +1,22 @@
+#114 - Romagna
+
+owner = SCI
+controller = SCI
+add_core = SCI
+culture = culture_placeholder
+religion = the_memes
+hre = yes 
+base_tax = 6 
+base_production = 6    
+trade_goods = salt
+base_manpower = 4    
+capital = "Bologna"
+estate = estate_nobles
+is_city = yes	# Estimated 
+
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim

@@ -1,0 +1,21 @@
+#1137 - Wagadugi
+
+#Senior of the Mossi Kingdoms centered here
+
+
+
+is_city = yes
+ #mossi
+ #Fetishism
+capital = "Wagadugu"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+
+
+

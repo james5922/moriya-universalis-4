@@ -1,0 +1,21 @@
+#655 - Palawan
+
+
+
+capital = "Palawan"
+trade_goods = sugar
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+discovered_by = chinese
+
+
+
+add_local_autonomy = 25
+
+
+
+	
+	

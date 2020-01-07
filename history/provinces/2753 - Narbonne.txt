@@ -1,0 +1,21 @@
+# Narbonne - Principal cities: Narbonne
+
+
+
+capital = "Narbonne"
+is_city = yes
+
+
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = wine
+base_manpower = 3
+
+
+fort_15th = yes
+
+
+
+discovered_by = eastern
+discovered_by = western

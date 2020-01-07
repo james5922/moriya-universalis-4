@@ -1,0 +1,15 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx 
+
+color = { 111 111 111 } # PLACEHOLDER
+
+monarch_names = { "Cirno #0" = 100 }
+
+leader_names = { "Moriya" } 
+
+ship_names = { "Placeholder" } 
+
+army_names = { "Placeholder Army" } 
+
+fleet_names = { "Placeholder Fleet" }

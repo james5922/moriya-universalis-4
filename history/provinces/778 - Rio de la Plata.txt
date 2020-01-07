@@ -1,0 +1,21 @@
+#778 - Rio de la Plata
+
+
+
+
+
+discovered_by = south_american
+
+capital = "Rio de la Plata"
+is_city = yes
+trade_goods = grain
+hre = no
+base_tax = 4 
+base_production = 1
+base_manpower = 2
+native_size = 5
+native_ferocity = 1
+native_hostileness = 1
+extra_cost = 18
+center_of_trade = 1
+

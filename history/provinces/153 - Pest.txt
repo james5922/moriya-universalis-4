@@ -1,0 +1,21 @@
+#153 - Pest (Pest + Pilis + Esztergom + Kalocsa + most of Kiskunság + Parts of Nógrád )
+
+
+ 
+
+
+capital = "Buda"
+trade_goods = grain
+hre = no
+base_tax = 5
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern

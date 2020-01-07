@@ -1,0 +1,25 @@
+#64 - Straubing (includes Passau)
+
+
+
+
+owner = CMR
+controller = CMR
+add_core = CMR
+culture = culture_placeholder
+religion = the_memes
+
+base_tax = 5 
+base_production = 5
+trade_goods = glass
+base_manpower = 1
+capital	= "Straubing" 
+is_city = yes
+hre = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+

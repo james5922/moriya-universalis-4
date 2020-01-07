@@ -1,0 +1,21 @@
+#Estland, incl. Reval, Hapsal, Weissenstein, Wesenberg and Pernau.
+
+
+
+
+
+
+
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = grain
+base_manpower = 2
+capital = "Reval"
+estate = estate_burghers
+is_city = yes
+fort_15th = yes #Fortifications of Reval, Wesenberg, Toompea Castle
+
+
+
+discovered_by = western

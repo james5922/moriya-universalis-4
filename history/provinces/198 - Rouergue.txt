@@ -1,0 +1,21 @@
+# 198 Rouergue - Principal cities: Rodez
+
+
+
+capital = "Rodez"
+is_city = yes
+
+
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = livestock
+base_manpower = 2
+add_local_autonomy = 25
+estate = estate_nobles
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim

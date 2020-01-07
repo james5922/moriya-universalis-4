@@ -1,0 +1,25 @@
+#127 - Sardinia
+
+
+
+owner = SCI
+controller = SCI
+add_core = SCI
+culture = culture_placeholder
+religion = the_memes
+ 
+hre = yes 
+base_tax = 3 
+base_production = 3
+trade_goods = fish
+base_manpower = 2
+capital = "Sassari" 
+is_city = yes 
+
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

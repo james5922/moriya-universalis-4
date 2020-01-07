@@ -1,0 +1,17 @@
+#1034 - Kamchatka
+
+
+capital = "Kamchatka"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 50
+native_ferocity = 2
+native_hostileness = 5
+is_city = yes
+
+
+
+discovered_by = HOD

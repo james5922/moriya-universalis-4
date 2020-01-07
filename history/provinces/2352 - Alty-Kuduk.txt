@@ -1,0 +1,21 @@
+# 2352 - Alty-Kuduk
+
+
+
+
+
+capital = "Alty-Kuduk"
+trade_goods = fish
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+
+
+
+
+discovered_by = KZH
+discovered_by = KAZ
+discovered_by = KAS

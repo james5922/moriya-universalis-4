@@ -1,0 +1,21 @@
+# No previous file for Kantor
+
+
+
+
+ #Subjet province within the empire
+estate = estate_nobles
+is_city = yes
+ 
+ #Fetishism
+capital = "Sutuco"
+trade_goods = ivory
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+discovered_by = sub_saharan
+add_local_autonomy = 50
+
+
+	

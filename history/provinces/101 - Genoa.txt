@@ -1,0 +1,25 @@
+#101 - Liguria
+
+
+
+owner = SCI
+controller = SCI
+add_core = SCI
+culture = culture_placeholder
+religion = the_memes
+
+
+hre = yes
+base_tax = 10 
+base_production = 10
+trade_goods = paper
+base_manpower = 5
+fort_15th = yes
+capital = "Genova"
+is_city = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 24
+center_of_trade = 3

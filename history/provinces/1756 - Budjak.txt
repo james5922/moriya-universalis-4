@@ -1,0 +1,21 @@
+#1756 - Budjak
+
+
+
+
+
+hre = no
+base_tax = 5 
+base_production = 4
+capital = "Kilia"
+is_city = yes
+trade_goods = wool
+base_manpower = 2
+fort_15th = yes #Akkerman Fortress
+
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim

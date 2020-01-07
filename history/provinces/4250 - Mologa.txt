@@ -1,0 +1,21 @@
+#4250 - Mologa
+
+
+
+
+
+hre = no 
+base_tax = 2
+base_production = 2
+trade_goods = livestock 
+base_manpower = 2
+capital = "Mologa"
+is_city = yes
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+
+
+
+

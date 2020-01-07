@@ -1,0 +1,25 @@
+#1757 - Oberpfalz
+
+
+
+
+owner = CMR
+controller = CMR
+add_core = CMR
+culture = culture_placeholder
+religion = the_memes
+
+base_tax = 4
+base_production = 4
+trade_goods = iron
+base_manpower = 4
+capital	= "Amberg" 
+is_city = yes
+fort_15th = yes
+hre = yes
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim

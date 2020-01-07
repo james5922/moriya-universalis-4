@@ -1,0 +1,21 @@
+#659 - Lingga
+
+
+
+
+
+capital = "Lingga"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

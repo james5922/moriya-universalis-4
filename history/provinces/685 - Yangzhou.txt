@@ -1,0 +1,21 @@
+#685 - Huai'an (can't change file name)
+
+
+
+
+
+
+capital = "Yangzhou"
+trade_goods = salt
+hre = no
+base_tax = 12 
+base_production = 12
+base_manpower = 2
+is_city = yes
+
+
+discovered_by = chinese
+discovered_by = nomad_group
+
+
+

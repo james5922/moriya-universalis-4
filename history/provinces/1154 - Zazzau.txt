@@ -1,0 +1,21 @@
+#1154 - Zazzau
+
+
+
+
+
+is_city = yes
+base_manpower = 3
+ #Fetishism
+capital = "Turunku"
+trade_goods = slaves
+hre = no
+base_tax = 3 
+base_production = 3
+
+
+
+discovered_by = sub_saharan
+
+
+

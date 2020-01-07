@@ -1,0 +1,21 @@
+# - Wankapampa
+
+
+
+
+
+capital = "Wankapampa"
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+
+
+
+discovered_by = south_american
+discovered_by = andean
+discovered_by = CHM
+

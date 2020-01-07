@@ -1,0 +1,21 @@
+#1117 - Futa Jallon
+
+
+
+
+is_city = yes
+base_manpower = 3
+ #Fetishism
+capital = "Timbo"
+trade_goods = ivory
+hre = no
+estate = estate_nobles
+base_tax = 3 
+base_production = 3
+
+ #Subject province within the empire
+
+
+
+discovered_by = sub_saharan
+

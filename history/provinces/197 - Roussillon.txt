@@ -1,0 +1,21 @@
+# 197 Roussillon - Principal cities: Perpignan
+
+
+
+
+capital = "Perpignan"
+is_city = yes
+
+
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = wine
+base_manpower = 2
+
+
+estate = estate_nobles
+fort_15th = yes
+
+
+

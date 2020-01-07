@@ -1,0 +1,21 @@
+# 188 Metz - Principal cities: Metz, Thionville
+
+latent_trade_goods = {
+	coal
+}
+
+
+ 
+capital = "Metz"
+is_city = yes
+estate = estate_burghers
+
+
+hre = yes
+base_tax = 6 
+base_production = 6
+trade_goods = glass
+base_manpower = 5
+
+discovered_by = eastern
+discovered_by = western

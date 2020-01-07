@@ -1,0 +1,21 @@
+#2715 - Palopo
+
+
+
+
+
+capital = "Palopo"
+trade_goods = spices
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+
+
+
+discovered_by = ATJ
+discovered_by = MAJ
+discovered_by = MKS
+discovered_by = BLI

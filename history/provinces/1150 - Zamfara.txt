@@ -1,0 +1,21 @@
+#1150 - Zamfara
+
+
+
+
+
+is_city = yes
+base_manpower = 1
+ #Fetishism
+capital = "Dutsi"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+
+
+
+discovered_by = sub_saharan
+
+
+

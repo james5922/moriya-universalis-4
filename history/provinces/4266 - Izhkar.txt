@@ -1,0 +1,21 @@
+#4266 - Izhkar
+
+
+
+capital = "Izhkar"
+
+ #Sami Shamanism
+trade_goods = iron
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = SIB
+discovered_by = NOG
+discovered_by = GOL
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+discovered_by = ottoman

@@ -1,0 +1,21 @@
+#382 - Damascus
+
+
+
+
+
+capital = "Dimashq"
+trade_goods = iron
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 6
+is_city = yes
+estate = estate_nobles
+
+
+fort_15th = yes
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = western

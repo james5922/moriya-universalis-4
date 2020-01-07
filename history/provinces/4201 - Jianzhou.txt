@@ -1,0 +1,21 @@
+# 4201 - Jianzhou
+
+
+
+
+
+
+capital = "Jianzhou"
+trade_goods = fur
+hre = no
+base_tax = 4 
+base_production = 3
+base_manpower = 3
+is_city = yes
+estate = estate_nomadic_tribes
+discovered_by = chinese
+discovered_by = nomad_group
+
+add_province_triggered_modifier = changbai_mountain
+
+

@@ -1,0 +1,21 @@
+#4240 - Fejér (Fejér + Veszprém + Györ + parts of Komárom)
+
+
+ 
+
+
+capital = "Fehérvár"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+estate = estate_church
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western

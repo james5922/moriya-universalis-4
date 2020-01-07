@@ -1,0 +1,21 @@
+#2396 - Mong Kawng
+
+
+
+
+
+capital = "Mong Kawng"
+trade_goods = gems
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = chinese
+discovered_by = indian
+
+
+
+	
+	

@@ -1,0 +1,21 @@
+# No previous file for Yawuri
+
+
+
+
+is_city = yes
+ 
+ #Fetishism
+capital = "Birnin Yawuri"
+trade_goods = coffee #Kola nuts
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+
+
+discovered_by = sub_saharan
+
+
+

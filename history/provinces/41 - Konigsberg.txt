@@ -1,0 +1,21 @@
+#41 - Königsberg
+
+
+
+capital = "Königsberg"
+
+
+trade_goods = gems #Amber
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 8
+center_of_trade = 1

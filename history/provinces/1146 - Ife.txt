@@ -1,0 +1,21 @@
+#1146 - Ife
+
+
+
+
+
+ #Fetishism
+capital = "Ife Ile"
+is_city = yes
+base_manpower = 1
+trade_goods = glass #Ife Glass Beads
+hre = no
+base_tax = 1 
+base_production = 1
+
+discovered_by = sub_saharan
+
+
+
+
+

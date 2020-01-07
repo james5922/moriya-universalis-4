@@ -1,0 +1,21 @@
+#1032 - Kurils
+
+
+
+capital = "Kuril"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 1
+
+
+
+discovered_by = JAP
+discovered_by = AMA
+discovered_by = ASA
+discovered_by = CSK
+discovered_by = DTE

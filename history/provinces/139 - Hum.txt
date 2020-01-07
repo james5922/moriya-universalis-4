@@ -1,0 +1,21 @@
+#139 - Hum
+
+		# Part of the Bosnian kingdom
+
+
+
+capital = "Mostar"	# Unofficial capital of Herzegovina
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+estate = estate_nobles
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western

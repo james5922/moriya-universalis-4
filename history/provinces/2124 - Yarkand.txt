@@ -1,0 +1,21 @@
+# 2124 - Yarkand
+
+
+
+
+
+
+capital = "Yarkant"
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 2
+base_manpower = 2
+is_city = yes
+estate = estate_church
+discovered_by = chinese
+discovered_by = nomad_group
+discovered_by = indian
+extra_cost = 8
+center_of_trade = 1
+

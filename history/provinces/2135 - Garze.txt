@@ -1,0 +1,21 @@
+# 2135 - Garze
+
+
+
+
+
+
+capital = "Garze"
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group
+

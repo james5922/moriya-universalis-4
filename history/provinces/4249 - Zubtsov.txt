@@ -1,0 +1,21 @@
+#4249 - Zubtsov
+
+
+  
+
+
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = grain  
+base_manpower = 1
+capital = "Zubtsov"
+is_city = yes
+
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+discovered_by = KAZ

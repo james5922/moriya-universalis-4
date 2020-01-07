@@ -1,0 +1,21 @@
+#597 - Johor
+
+
+
+
+
+capital = "Johor"
+trade_goods = chinaware
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+
+
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim

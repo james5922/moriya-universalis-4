@@ -1,0 +1,21 @@
+#306 - Nijni-Novgorod
+
+
+
+
+
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = copper 
+base_manpower = 3
+capital = "Nizhny Novgorod"
+is_city = yes
+fort_15th = yes
+estate = estate_nobles
+
+
+discovered_by = GOL
+discovered_by = KAZ
+discovered_by = eastern
+discovered_by = western

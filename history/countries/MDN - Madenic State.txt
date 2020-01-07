@@ -8,27 +8,14 @@ primary_culture = culture_placeholder
 historical_friend = DOT
 capital = 84
 
-1399.1.1 = {									# This is a standard year clause. You need this to use the monarch or heir clause.
+1444.1.1 = {									# This is a standard year clause. You need this to use the monarch or heir clause.
 	monarch = {
 		name = "Maden"							# This defines the name of the ruler
 		dynasty = "von Baden"						# This defines the dynasty of the ruler. This isn't required however.
-		birth_date = "1424.6.27"				# Defines the birth date of the ruler. Used by the game to work out the age of the monarch.
-		death_date = "1800.12.18"				# Defines the death date of the ruler. Used by the game when displaying the ruler history. Not actually required to change the ruler, simply adding a more recent monarch clause will do that.
+		birth_date = "1425.6.27"				# Defines the birth date of the ruler. Used by the game to work out the age of the monarch.
 		adm = 6									# Defines the ADM skill of the ruler
 		dip = 6									# Defines the DIP skill of the ruler
 		mil = 6									# Defines the MIL skill of the ruler
 		regent = no								# Regency yes no
-	}
-	
-	heir = {
-		name = "Maden"							# Defines the name of the heir.
-		monarch_name = "Maden II"				# Defines the name of the heir on ascension to the throne.
-		dynasty = "von Baden"						# Defines the dynasty of the heir.
-		birth_date = 1443.12.18					# Defines the birth date of the heir. Must match the year clause the heir clause is within.
-		death_date = 1800.10.31					# Defines the death date of the heir.
-		claim = 95								# Defines the claim of the heir. 100 is strong, whilst 0 is not
-		adm = 6									# Defines the ADM skill of the heir
-		dip = 6									# Defines the DIP skill of the heir
-		mil = 6								# Defines the MIL skill of the heir
 	}
 }

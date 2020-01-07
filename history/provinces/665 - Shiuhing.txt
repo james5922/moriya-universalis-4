@@ -1,0 +1,21 @@
+#665 - Jiangmen
+
+
+
+
+
+
+capital = "Shiuhing"
+trade_goods = chinaware
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim

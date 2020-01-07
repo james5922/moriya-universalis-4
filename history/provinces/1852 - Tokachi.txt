@@ -1,0 +1,21 @@
+#1852 - Tokachi
+
+latent_trade_goods = {
+	coal
+}
+
+
+
+
+is_city = yes
+
+
+capital = "Tokachi"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+
+

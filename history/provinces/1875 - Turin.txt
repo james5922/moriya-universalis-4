@@ -1,0 +1,25 @@
+#1875 - Cuneo (can't change filename)
+
+
+
+owner = SCI
+controller = SCI
+add_core = SCI
+culture = culture_placeholder
+religion = the_memes
+
+hre = yes
+base_tax = 5 
+base_production = 5
+trade_goods = grain
+base_manpower = 5
+fort_15th = yes #Cittadellla of Alessandria
+capital = "Cuneo"
+is_city = yes		# Estimated
+
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim

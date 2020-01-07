@@ -1,0 +1,21 @@
+# No previous file for Tulucan
+
+
+
+
+
+is_city = yes
+
+capital = "Matlatzinca"
+trade_goods = gold
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+discovered_by = mesoamerican

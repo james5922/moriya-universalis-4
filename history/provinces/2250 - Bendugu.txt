@@ -1,0 +1,21 @@
+# No previous file for Bendugu
+
+
+
+
+is_city = yes
+ 
+ #Fetishism
+capital = "San"
+estate = estate_nobles
+trade_goods = iron
+hre = no
+base_tax = 3 
+base_production = 3
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+base_manpower = 1
+discovered_by = sub_saharan
+add_local_autonomy = 25
+

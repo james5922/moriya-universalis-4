@@ -1,0 +1,21 @@
+#584 - Ava
+
+
+
+
+
+capital = "Ava"
+trade_goods = gems #Burmese Emerald/Myanmar Jade
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 4
+fort_15th = yes
+is_city = yes
+
+discovered_by = chinese
+discovered_by = indian
+extra_cost = 16
+center_of_trade = 2
+
+

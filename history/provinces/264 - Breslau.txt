@@ -1,0 +1,25 @@
+#264 - Breslau (Breslau+Brieg+Öls+Wartenberg+Wohlau/Steinau)
+
+
+
+owner = CRF
+controller = CRF
+add_core = CRF
+culture = culture_placeholder
+religion = the_memes
+
+capital = "Breslau"
+trade_goods = cloth
+hre = yes
+base_tax = 5 
+base_production = 5
+is_city = yes 
+base_manpower = 3
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern

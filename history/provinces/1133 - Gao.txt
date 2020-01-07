@@ -1,0 +1,21 @@
+#1133 - Gao
+
+
+
+
+is_city = yes
+base_manpower = 2
+
+capital = "Gao"
+trade_goods = cloth
+hre = no
+base_tax = 7 
+base_production = 7
+
+discovered_by = sub_saharan
+fort_15th = yes
+extra_cost = 8
+center_of_trade = 1
+
+
+

@@ -1,0 +1,25 @@
+#262 - Krakow
+
+latent_trade_goods = {
+	coal
+}
+
+
+
+
+
+capital = "Kraków"
+hre = no
+base_tax = 7
+base_production = 7
+trade_goods = salt
+base_manpower = 6
+is_city = yes
+fort_15th = yes
+ #Jagiellonian University established in 1364 by Casimir III the Great
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

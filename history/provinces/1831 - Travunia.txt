@@ -1,0 +1,21 @@
+#1831 - Travunia
+
+		# Part of the Bosnian kingdom
+
+
+
+capital = "Trebinje"
+trade_goods = wool
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+estate = estate_church
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western

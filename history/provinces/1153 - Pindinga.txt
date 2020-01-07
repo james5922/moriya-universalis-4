@@ -1,0 +1,21 @@
+#1153 - Pindinga
+
+
+
+
+is_city = yes
+  
+ #Fetishism
+capital = "Lafia"
+native_size = 40
+base_manpower = 1
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+discovered_by = sub_saharan
+
+
+
+
+	

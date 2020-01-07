@@ -1,2 +1,0 @@
-government = moriya_state
-government_rank = 1

@@ -1,0 +1,21 @@
+#231 - Porto
+
+
+
+
+
+capital = "Porto"
+trade_goods = wine
+hre = no
+base_tax = 7 
+base_production = 7
+base_manpower = 5
+is_city = yes
+estate = estate_church #Braga
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+extra_cost = 18
+center_of_trade = 1

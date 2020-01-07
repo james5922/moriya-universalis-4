@@ -1,0 +1,21 @@
+#757 - Ilheus
+
+
+
+
+
+discovered_by = south_american
+
+capital = "Ilheus"
+is_city = yes
+trade_goods = cocoa
+hre = no
+base_tax = 2
+base_production = 4
+base_manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 2
+
+
+

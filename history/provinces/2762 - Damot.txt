@@ -1,0 +1,18 @@
+#2762 - Damot
+
+
+
+
+ 
+
+capital = "Nekemte"
+is_city = yes
+base_manpower = 2
+trade_goods = gold
+hre = no
+base_tax = 2 
+base_production = 3
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+

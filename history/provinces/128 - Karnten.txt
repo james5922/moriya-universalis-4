@@ -1,0 +1,21 @@
+#128 - Kärnten
+
+owner = CMR
+controller = CMR
+add_core = CMR
+culture = culture_placeholder
+religion = the_memes
+base_tax = 6
+base_production = 6
+trade_goods = iron 
+base_manpower = 5
+fort_15th = yes #Hochosterwitz Castle
+capital = "Klagenfurt" 
+is_city = yes
+hre = yes
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim

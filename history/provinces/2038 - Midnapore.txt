@@ -1,0 +1,21 @@
+#2038 - Midnapore
+
+
+
+
+
+capital = "Midnapore"
+trade_goods = spices #Opium
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+
+
+
+
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

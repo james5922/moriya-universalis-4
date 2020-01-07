@@ -1,2 +1,0 @@
-government = national_union
-government_rank = 1

@@ -1,0 +1,21 @@
+#1822 - Suzhou
+
+
+
+
+
+
+capital = "Suzhou"
+trade_goods = silk
+hre = no
+base_tax = 9 
+base_production = 9
+base_manpower = 2
+is_city = yes
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group
+
+extra_cost = 10

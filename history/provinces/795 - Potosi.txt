@@ -1,0 +1,21 @@
+#795 - Potosi
+
+
+
+
+
+
+
+
+discovered_by = south_american
+discovered_by = andean
+
+
+capital = "Potosí"
+trade_goods = gold
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+extra_cost = 6

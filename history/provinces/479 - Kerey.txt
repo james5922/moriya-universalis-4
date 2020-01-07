@@ -1,0 +1,21 @@
+#479 - Kerey
+
+
+
+
+
+capital = "Kerey"
+trade_goods = copper
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+
+
+
+
+discovered_by = KZH
+discovered_by = GOL
+discovered_by = muslim

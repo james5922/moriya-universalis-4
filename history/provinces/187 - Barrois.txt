@@ -1,0 +1,21 @@
+# 187 Barrois - Principal cities: Verdun
+
+
+
+capital = "Bar-le-Duc"
+is_city = yes
+
+
+hre = yes
+base_tax = 5 
+base_production = 5
+trade_goods = cloth
+base_manpower = 5
+
+fort_15th = yes
+ # La Notre-Dame de Verdun
+
+
+
+discovered_by = eastern
+discovered_by = western
