@@ -6,7 +6,11 @@ capital = "Opole"
 is_city = yes
 trade_goods = grain
 base_manpower = 2
-
+owner = CRF
+controller = CRF
+add_core = CRF
+culture = culture_placeholder
+religion = the_memes
 
 discovered_by = western
 discovered_by = eastern

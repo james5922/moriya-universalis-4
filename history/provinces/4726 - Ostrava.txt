@@ -1,6 +1,10 @@
 
 capital = "Ostrava"
-
+owner = CRF
+controller = CRF
+add_core = CRF
+culture = culture_placeholder
+religion = the_memes
 trade_goods = grain 
 hre = yes
 base_tax = 2

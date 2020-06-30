@@ -1,6 +1,10 @@
 #4761 - Traungau
 
-
+owner = CMR
+controller = CMR
+add_core = CMR
+culture = culture_placeholder
+religion = the_memes
 base_tax = 2
 base_production = 4
 trade_goods = iron

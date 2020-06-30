@@ -1,7 +1,11 @@
 
 capital = "Freising"
 is_city = yes
-
+owner = CMR
+controller = CMR
+add_core = CMR
+culture = culture_placeholder
+religion = the_memes
 hre = yes
 base_tax = 4 
 base_production = 4

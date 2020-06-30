@@ -1,6 +1,10 @@
 #4729 - Padova, Padua
 
-
+owner = CMR
+controller = CMR
+add_core = CMR
+culture = culture_placeholder
+religion = the_memes
 hre = no 
 base_tax = 4
 base_production = 3

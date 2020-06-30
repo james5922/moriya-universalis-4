@@ -1,6 +1,10 @@
 #4759 - Oberkärnten
 
-
+owner = CMR
+controller = CMR
+add_core = CMR
+culture = culture_placeholder
+religion = the_memes
 base_tax = 3
 base_production = 3
 base_manpower = 2

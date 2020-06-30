@@ -1,4 +1,8 @@
-
+owner = CRF
+controller = CRF
+add_core = CRF
+culture = culture_placeholder
+religion = the_memes
 capital = "Görlitz"
 is_city = yes
 hre = yes
