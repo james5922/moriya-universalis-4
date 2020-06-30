@@ -1,4 +1,9 @@
 
+owner = MSH
+controller = MSH
+culture = culture_placeholder
+religion = yukaism
+add_core = MSH
 
 capital = "Agios Georgios"
 trade_goods = wine

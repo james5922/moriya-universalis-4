@@ -1,5 +1,9 @@
 # 4730 - Bologna
-
+owner = SCI
+controller = SCI
+add_core = SCI
+culture = culture_placeholder
+religion = the_memes
 
 hre = no
 base_tax = 5

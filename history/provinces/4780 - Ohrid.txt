@@ -1,5 +1,9 @@
 # 4780 - Ohrid
-
+owner = MSH
+controller = MSH
+culture = culture_placeholder
+religion = yukaism
+add_core = MSH
 
 
 capital = "Ohrid"

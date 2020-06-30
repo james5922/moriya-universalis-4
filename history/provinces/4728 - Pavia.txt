@@ -1,5 +1,9 @@
 # 4728 - Pavia
-
+owner = SCI
+controller = SCI
+add_core = SCI
+culture = culture_placeholder
+religion = the_memes
 
 hre = yes
 base_tax = 6

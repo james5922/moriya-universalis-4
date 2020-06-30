@@ -1,5 +1,9 @@
 
-
+owner = MSH
+controller = MSH
+culture = culture_placeholder
+religion = yukaism
+add_core = MSH
 capital = "Gumulcine"
 trade_goods = livestock
 hre = no

@@ -1,6 +1,10 @@
 #2348 - Chios
 
-
+owner = MSH
+controller = MSH
+culture = culture_placeholder
+religion = yukaism
+add_core = MSH
 
 capital = "Mytilene"
 trade_goods = fish

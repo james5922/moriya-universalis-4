@@ -1,5 +1,9 @@
 # 4750 - Krujë, Tirana, central Albania
-
+owner = MSH
+controller = MSH
+culture = culture_placeholder
+religion = yukaism
+add_core = MSH
 capital = "Krujë"
 trade_goods = wool
 hre = no

@@ -1,6 +1,10 @@
 # 4757 - Kolubara
 
-
+owner = MSH
+controller = MSH
+culture = culture_placeholder
+religion = yukaism
+add_core = MSH
 capital = "Valjevo"
 trade_goods = grain
 hre = no
