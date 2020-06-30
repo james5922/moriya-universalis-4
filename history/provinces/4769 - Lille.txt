@@ -1,6 +1,10 @@
 # 4769 - Lille, meant to represent Waals Vlaanderen. Principal cities: Lille, Douai, Orchies
 
-
+owner = MDN
+controller = MDN
+add_core = MDN
+culture = culture_placeholder
+religion = the_memes
 is_city = yes
 capital = "Lille"
 
