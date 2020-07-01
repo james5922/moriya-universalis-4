@@ -2,8 +2,11 @@
 
 		#Alfons V of Aragon
 
-
-
+owner = BOR
+controller = BOR
+add_core = BOR
+culture = culture_placeholder
+religion = the_memes
 
 
 hre = no

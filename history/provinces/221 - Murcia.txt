@@ -3,7 +3,11 @@
 		# Juan II of Castille
 
 
-
+owner = BOR
+controller = BOR
+add_core = BOR
+culture = culture_placeholder
+religion = the_memes
  
 hre = no
 base_tax = 4
