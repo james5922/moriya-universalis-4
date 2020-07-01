@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = autocracy_reform
 government_rank = 2
-mercantilism = 0.1
+mercantilism = 1
 technology_group = western
 religion = the_memes
 primary_culture = culture_placeholder
@@ -16,6 +16,5 @@ capital = 84
 		adm = 6									# Defines the ADM skill of the ruler
 		dip = 6									# Defines the DIP skill of the ruler
 		mil = 6									# Defines the MIL skill of the ruler
-		regent = no								# Regency yes no
 	}
 }

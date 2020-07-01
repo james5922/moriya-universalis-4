@@ -167,3 +167,44 @@ MSH_ideas = {
 		infantry_power = 0.33
 	}
 }
+
+CRF_ideas = {
+	start = {
+		envoy_travel_time = -0.2
+		imperial_authority = 0.15
+	}
+
+	bonus = {
+		advisor_cost = -0.25
+		advisor_pool = 1
+	}
+
+	trigger = {
+		tag = CRF
+	}
+	free = yes
+
+	simplify_the_channels = {
+		governing_capacity = 250
+	}
+	the_crafty_mage = {
+		global_unrest = -3
+		harsh_treatment_cost = -0.15
+	}
+	man_the_forts = {
+		global_garrison_growth = 0.5
+		garrison_size = 0.4
+	}
+	craftys_forts = {
+		defensiveness = 0.25
+	}
+	the_quiet_admin = {
+		yearly_corruption = -0.1
+	}
+	peaceful_resignation = {
+		war_exhaustion = -0.1
+	}
+	the_old_breed = {
+		prestige_decay = -0.1
+	}
+}
