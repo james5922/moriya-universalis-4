@@ -208,3 +208,41 @@ CRF_ideas = {
 		prestige_decay = -0.1
 	}
 }
+
+CMR_ideas = {
+ 	start = { 
+		reserves_organisation = 0.25
+		free_leader_pool = 1
+	}
+	bonus = {
+		prestige_per_development_from_conversion = 0.5
+	}
+	trigger = {
+		tag = CMR
+	}
+	free = yes
+	strike_down_huggers = {
+		global_heretic_missionary_strength = 0.05
+	}
+	grow_the_shrine = {
+		build_cost = -0.1
+		build_time = -0.25
+	}
+	spread_the_word = {
+		institution_spread_from_true_faith = 0.33
+	}
+	staff_team = {
+		administrative_efficiency = 0.1
+	}
+	all_together_now = {
+		tolerance_own = 1
+	}
+	controversy_cirno = {
+		power_projection_from_insults = 1
+		improve_relation_modifier = -0.10
+	}
+	stop_the_revolution = {
+		# i'd use "cb_on_government_enemies" but it doesn't exist anymore
+		global_spy_defence = 0.25
+	}
+}
