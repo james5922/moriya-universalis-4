@@ -1,10 +1,13 @@
 # 193 Franche-Comté - Principal cities: Besançon
-
+owner = TRM
+controller = TRM
+add_core = TRM
+culture = culture_placeholder
+religion = the_memes
 
  
 capital = "Besançon"
 is_city = yes
-estate = estate_burghers
 
 
 hre = yes

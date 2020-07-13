@@ -1,5 +1,9 @@
 # 4764 - Salins. Principal cities: Salins, Lons-le-Saunier, Arlay, Pontarlier
-
+owner = TRM
+controller = TRM
+add_core = TRM
+culture = culture_placeholder
+religion = the_memes
 capital = "Salins"
 is_city = yes
 

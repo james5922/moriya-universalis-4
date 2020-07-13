@@ -1,5 +1,9 @@
 #74 - Baden
-
+owner = TRM
+controller = TRM
+add_core = TRM
+culture = culture_placeholder
+religion = the_memes
 
 
 

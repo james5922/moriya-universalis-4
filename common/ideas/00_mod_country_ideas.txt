@@ -246,3 +246,71 @@ CMR_ideas = {
 		global_spy_defence = 0.25
 	}
 }
+
+SCI_ideas = {
+	start = {
+
+	}
+	bonus = {
+
+	}
+	trigger = {
+		tag = SCI
+	}
+	free = yes
+	SCI_idea_1 = {
+
+	}
+	SCI_idea_2 = {
+
+	}
+	SCI_idea_3 = {
+
+	}
+	SCI_idea_4 = {
+
+	}
+	SCI_idea_5 = {
+
+	}
+	SCI_idea_6 = {
+
+	}
+	SCI_idea_7 = {
+		
+	}
+}
+
+TRM_ideas = {
+	start = {
+
+	}
+	bonus = {
+
+	}
+	trigger = {
+		tag = TRM
+	}
+	free = yes
+	TRM_idea_1 = {
+
+	}
+	TRM_idea_2 = {
+
+	}
+	TRM_idea_3 = {
+
+	}
+	TRM_idea_4 = {
+
+	}
+	TRM_idea_5 = {
+
+	}
+	TRM_idea_6 = {
+
+	}
+	TRM_idea_7 = {
+		
+	}
+}
